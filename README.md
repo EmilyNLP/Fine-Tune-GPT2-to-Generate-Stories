@@ -6,7 +6,7 @@ GPT-2 is a large transformer-based language model with 1.5 billion parameters, t
 
 In this notebook, I use the dataset of writing prompts and stories from [this paper](https://github.com/pytorch/fairseq/tree/master/examples/stories) to fine-tune GPT-2, then use the fine-tuned model to generate stories. I use [perplexity](https://en.wikipedia.org/wiki/Perplexity) as the metrics to check if fine-tuning imporves the performance or not.  
 
-![image.png](attachment:image.png)
+![image.png](1.png)
 
 
 ```python
